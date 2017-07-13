@@ -16,7 +16,7 @@ public class QueryReader {
 
 		System.out.println("The Resultant String:"+querystring);
 
-		Query query=new Query();
+		QueryParser query=new QueryParser();
 
 		query.parseQuery(querystring);
 		
