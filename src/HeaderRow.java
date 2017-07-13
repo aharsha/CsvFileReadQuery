@@ -2,6 +2,6 @@ import java.util.*;
 import java.io.*;
 public class HeaderRow 
 {
-	int temp;
+	int tempp;
 	LinkedHashMap<String,Integer> firstrow=new LinkedHashMap<>();	
 }
